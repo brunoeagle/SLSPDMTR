@@ -1,3 +1,4 @@
+/*Official repository on GitHub: github.com/brunoeagle/SLSPDMTR*/
 #include "p24hj64gp202.h"
 #include "MCUConfig.h"
 #include "spi.h"
